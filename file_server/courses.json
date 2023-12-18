@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Machine Learning",
+    "description": "Numpy tutorial",
+    "imageLink": "https://img.freepik.com/free-vector/online-tutorials-concept_52683-37480.jpg?w=2000",
+    "published": true,
+    "id": 1
+  },
+  {
+    "title": "Artificial Intelligence",
+    "description": "Python Agents",
+    "imageLink": "https://img.freepik.com/free-vector/online-courses-tutorials_52683-37860.jpg",
+    "published": true,
+    "id": 2
+  },
+  {
+    "title": "FrontEnd",
+    "description": "React Tutorial",
+    "imageLink": "https://miro.medium.com/v2/resize:fit:1400/1*CpDidbInbG4Er_0j_hknFQ.jpeg",
+    "published": true,
+    "id": 3
+  },
+  {
+    "title": "Backend",
+    "description": "Express Tutorial",
+    "imageLink": "https://procoders.tech/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/03/Express-JS-vs-Node-JS_-Why-its-Time-to-Migrate_-1.png.webp",
+    "published": true,
+    "id": 4
+  },
+  {
+    "title": "DSA",
+    "description": "SDE Sheet",
+    "imageLink": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220810151609/Google-SDE-Sheet-1.jpg",
+    "published": true,
+    "id": 5
+  },
+  {
+    "title": "Python",
+    "description": "ML,AI, DS, Robotics Research Paper",
+    "imageLink": "https://media.licdn.com/dms/image/C4E12AQHe-0RQ5rSZPA/article-cover_image-shrink_720_1280/0/1640252799887?e=2147483647&v=beta&t=EUHs66TN8QiIv9wT13ageEHcIOFwLicl0EHaALycuJs",
+    "published": true,
+    "id": 6
+  },
+  {
+    "title": "Open Source",
+    "description": "Open Source Contribution",
+    "imageLink": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220327234835/How-to-Contribute-to-Open-Source-Projects-on-GitHub.png",
+    "published": true,
+    "id": 7
+  },
+  {
+    "title": "UPSC",
+    "description": "Revise all subjects",
+    "imageLink": "https://www.pw.live/files001/upsccse.png",
+    "published": true,
+    "id": 8
+  }
+]
